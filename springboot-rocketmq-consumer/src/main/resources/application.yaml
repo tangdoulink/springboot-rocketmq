@@ -1,0 +1,6 @@
+server:
+  port: 8001
+rocketmq:
+  name-server: 150.158.139.25:9876
+  consumer:
+    group: springboot-rocketmq-consumer-1
